@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamid Reza
+- 👋 Hi, I’m HamidReza Akbari
 - 👀 I’m interested in Laravel, Yii2, Reactjs
 - 🌱 I’m currently learning Python
 
